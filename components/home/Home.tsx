@@ -35,7 +35,7 @@ const Home = () => {
         </div>
 
         <div className=" text-center place-items-center items-center p-4 lg:p-8 mx-auto w-[90%] mt-8 lg:mt-6 lg:w-[80%] bg-gradient-to-b from-[#68299a] to-[#dc398c] rounded-lg">
-         <div className="flex flex-col lg:flex-row justify-around">
+         <div className="flex flex-col lg:flex-row justify-around mt-6">
          <div className="my-3 p-3">
             <p className="text-center text-[16px] font-bold leading-[24px] text-[#ffffff]">
               Exchange Your LP
@@ -62,7 +62,7 @@ const Home = () => {
           </div>
          </div>
 
-          <div className="text-center text-[16px] font-bold capitalize leading-[24px] text-[#ffffff] rounded-[10px] bg-[#6F2265] flex justify-center items-center place-items-center w-[50%] p-3 mx-auto mb-3">
+          <div className="text-center text-[16px] font-bold capitalize leading-[24px] text-[#ffffff] rounded-[10px] bg-[#6F2265] flex justify-center items-center place-items-center w-[50%] mt-6 p-3 mx-auto mb-3">
             Learn more
           </div>
         </div>
