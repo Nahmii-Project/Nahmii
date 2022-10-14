@@ -62,7 +62,7 @@ const Navbar = () => {
             <Link href="/bond">
             <span className="text-sm my-3 mr-4 cursor-pointer text-[#000000]">Learn</span>
             </Link>
-            <button className="bg-gradient-to-r from-[#902784] via-[#68299A]  to-[#68299A] rounded-lg text-[#ffffff] w-[222px] h-[43px] shadow-3xl">CONNECT WALLET</button>
+            <button className="bg-gradient-to-r from-[#902784] via-[#68299A]  to-[#68299A] rounded-lg text-[#ffffff] w-[222px] h-[43px] shadow-xl">CONNECT WALLET</button>
             {/* <ConnectionButton/> */}
           </div>
         </div>
