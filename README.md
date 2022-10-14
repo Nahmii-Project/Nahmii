@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+This repository if for nahmii hackathon hosted by web3bridge in collaboration with Nahmii
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+#### [Documentation for the Namibia Project](https://docs.google.com/document/d/1opnlKCxIRtn3DoQTrtsH7cBOXVKUnceryIH5kqARZHY/edit?usp=sharing)
