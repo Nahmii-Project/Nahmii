@@ -17,7 +17,7 @@ const Home = () => {
             MarketPlace for protocol owned Liquidity
           </p>
         </div>
-        <div className="flex justify-around text-center place-items-center items-center p-4 lg:p-6 mx-auto w-[90%] mt-4 lg:mt-6 lg:w-[80%] bg-gradient-to-b from-[#68299a] to-[#dc398c] rounded-lg">
+        <div className="flex justify-around text-center place-items-center items-center p-4 lg:p-6 mx-auto w-[90%] mt-4 lg:mt-6 lg:w-[80%] bg-gradient-to-b from-[#68299a] to-[#dc398c] rounded-lg filter drop-shadow-new backdrop-blur-new">
           <p className="text-center cursor-pointer text-[14px] font-bold leading-[21px] text-[#ffffff]">
             Bonds
           </p>
@@ -34,7 +34,7 @@ const Home = () => {
           </p>
         </div>
 
-        <div className=" text-center place-items-center items-center p-4 lg:p-8 mx-auto w-[90%] mt-8 lg:mt-6 lg:w-[80%] bg-gradient-to-b from-[#68299a] to-[#dc398c] rounded-lg">
+        <div className=" text-center place-items-center items-center p-4 lg:p-8 mx-auto w-[90%] mt-8 lg:mt-6 lg:w-[80%] bg-gradient-to-b from-[#68299a] to-[#dc398c] rounded-lg filter drop-shadow-new backdrop-blur-new">
          <div className="flex flex-col lg:flex-row justify-around mt-6">
          <div className="my-3 p-3">
             <p className="text-center text-[16px] font-bold leading-[24px] text-[#ffffff]">
